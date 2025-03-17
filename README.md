@@ -4,6 +4,7 @@
 
 #### Esta app la hize con la finalidad de poder automatizarla en iOS y en Android
 - En particular usando Appium
+- Aca les dejo el Repo de Automatizacion Mobile con Appium para la app NinjaSDET  https://github.com/sergioortiz17/appium_flutter_app_tests 
 
 ![image](https://github.com/user-attachments/assets/a1bd8a89-dd45-49be-bb0b-0b33392506fa)
 #### Tiene multiples componentes para practicar su automatizacion
